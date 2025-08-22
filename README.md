@@ -16,7 +16,6 @@ Credit status prediction simplified.
 - Scikit-learn
 - XGBoost
 - Matplotlib, Seaborn
-- Streamlit *(optional)*
 
 ## 📝 Dataset
 
