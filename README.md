@@ -42,7 +42,8 @@ The dataset used for this project is publicly available on [Kaggle](https://www.
 ```bash
 # Clone the repo
 https://github.com/SpringPixels/CrediPredict/blob/main/CrediPredict.ipynb
-cd LoanSight
+cd CrediPredict
+
 
 # Install dependencies
 pip install -r requirements.txt
